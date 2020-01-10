@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1448038362 source:c:\users\salehin\desktop\dod\dtd_codeblocks\dodge the darknrss\main.cpp
+	<stdio.h>
+	<graphics.h>
+	"print.h"
+
+1448035298 c:\users\salehin\desktop\dod\dtd_codeblocks\dodge the darknrss\print.h
+
+1448038425 source:c:\users\salehin\desktop\dod\dtd_codeblocks\dodge the darknrss\print.cpp
+	<graphics.h>
+
+1448032255 source:c:\users\salehin\desktop\dod\dtd_codeblocks\dodge the darknrss\lightwork.cpp
+	<graphics.h>
+	"print.h"
+
+1448536397 source:c:\users\salehin\desktop\dtd_codeblocks\dodge the darknrss\print.cpp
+	<stdio.h>
+	<graphics.h>
+
+1448202981 source:c:\users\salehin\desktop\dtd_codeblocks\dodge the darknrss\lightwork.cpp
+	<graphics.h>
+	"print.h"
+	<stdlib.h>
+
+1448467362 c:\users\salehin\desktop\dtd_codeblocks\dodge the darknrss\print.h
+
+1448538579 source:c:\users\salehin\desktop\dtd_codeblocks\dodge the darknrss\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	"print.h"
+
+1448202981 source:c:\users\salehin\desktop\dodge the darknrss\lightwork.cpp
+	<graphics.h>
+	"print.h"
+	<stdlib.h>
+
+1448467362 c:\users\salehin\desktop\dodge the darknrss\print.h
+
+1448575362 source:c:\users\salehin\desktop\dodge the darknrss\print.cpp
+	<stdio.h>
+	<graphics.h>
+
+1448607345 source:c:\users\salehin\desktop\dodge the darknrss\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	"print.h"
+
+1448202981 source:c:\users\salehin\desktop\dropbox\dodge the darknrss\lightwork.cpp
+	<graphics.h>
+	"print.h"
+	<stdlib.h>
+
+1448995534 c:\users\salehin\desktop\dropbox\dodge the darknrss\print.h
+
+1449083989 source:c:\users\salehin\desktop\dropbox\dodge the darknrss\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<stdlib.h>
+	"print.h"
+
+1449050618 source:c:\users\salehin\desktop\dropbox\dodge the darknrss\print.cpp
+	<stdio.h>
+	<graphics.h>
+
